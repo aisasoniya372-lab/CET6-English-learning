@@ -57,4 +57,3 @@ should cultivate independent judgment rather than make perfection its only crite
 15
 00:01:14,421 --> 00:01:15,237
 success
-

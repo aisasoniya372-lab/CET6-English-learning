@@ -9,4 +9,3 @@ Open `index.html` to start. The Article 01 audio folder must remain beside `inde
 This public site contains learning content only. It does not contain account credentials, API keys, local filesystem paths, email addresses, the source vocabulary PDF, production scripts, audit data, or private project files. Learning progress is stored only in the visitor's own browser local storage. The optional Cambridge link opens an external dictionary when selected by the visitor.
 
 The bundled dictionary data is based on ECDICT and includes its license notice in the local project materials.
-
