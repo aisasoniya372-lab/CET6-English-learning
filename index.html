@@ -98,7 +98,6 @@ $('#tabRead').onclick=()=>{stop();view='read';active();renderArticle();list()};$
 let timer;$('#search').oninput=()=>{clearTimeout(timer);timer=setTimeout(()=>{list();if(view==='words')openWords()},160)};$('#filter').onchange=list;$('#clear').onclick=()=>{$('#search').value='';list();if(view==='words')openWords()};
 if('speechSynthesis'in window)speechSynthesis.onvoiceschanged=fillVoices;
 const WORD_CARDS=Object.assign({},WORD_CARDS_1,WORD_CARDS_2,WORD_CARDS_3,WORD_CARDS_4,WORD_CARDS_5,WORD_CARDS_6);
-const WORD_CARDS=Object.assign({},WORD_CARDS_1,WORD_CARDS_2,WORD_CARDS_3,WORD_CARDS_4,WORD_CARDS_5,WORD_CARDS_6);
 let activeWord='',wordUtterance=null,wordTimer=null,autoWordSound=true;
 try{autoWordSound=localStorage.getItem('cet6-word-auto-sound')!=='off'}catch(e){}
 function wordGrammar(entry){if(entry.usage)return entry.usage;const z=entry.zh||'',tips=[];if(/(?:^|\n)(?:vt\.|v\.)/.test(z))tips.push('作及物动词时可直接接宾语；搭配应结合下方例句学习。');if(/(?:^|\n)vi\./.test(z))tips.push('作不及物动词时不能直接接宾语，需留意与介词的搭配。');if(/(?:^|\n)(?:a\.|adj\.)/.test(z))tips.push('作形容词时可修饰名词，或在系动词后说明状态；具体位置见例句。');if(/(?:^|\n)(?:adv\.|ad\.)/.test(z))tips.push('作副词时可修饰动作、程度或整个句子；留意例句中的位置。');if(/(?:^|\n)n\./.test(z))tips.push('作名词时注意前面的限定词、单复数和介词搭配；不同词义的可数性可能不同。');return tips.slice(0,2).join(' ')||'结合下方例句，观察它修饰、连接或指代的成分。'}
