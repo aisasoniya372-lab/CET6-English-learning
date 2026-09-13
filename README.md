@@ -14,3 +14,6 @@ Keep index.html, the referenced JavaScript data files, and audio/ together. This
 The site has no application analytics or account login. Learning progress and voice preferences are stored in the visitor's browser. Optional external dictionary links and device speech services are subject to their providers' behavior; GitHub hosts the site. Public updates contain only site code, learning content, generated audio, subtitles, and file checksums. Local filesystem paths, credentials, and source-production scripts are excluded.
 
 Dictionary data is based on ECDICT; its MIT notice is included in index.html. Exercises are original learning material and are not official CET exam questions. Coverage refers to the supplied vocabulary list, not every sense or the entire official syllabus.
+
+## Audio verification
+All 111 MP3 files and 111 subtitles were checked against local SHA-256 checksums. The player was tested for playback, seeking, speed, looping, and pausing when navigating between articles.
