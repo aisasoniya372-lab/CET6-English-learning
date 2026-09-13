@@ -1,0 +1,63 @@
+1
+00:00:00,103 --> 00:00:05,395
+Understanding a Simple Circuit An electrician brought a demonstration board to our
+
+2
+00:00:05,408 --> 00:00:10,776
+electronics class It contained a battery a switch a small lamp and
+
+3
+00:00:10,789 --> 00:00:17,145
+a capacitor A diagram showed the connection between each component The instructor
+
+4
+00:00:17,158 --> 00:00:20,987
+explained that resistance is measured in ohms with ohm as the singular
+
+5
+00:00:21,000 --> 00:00:26,342
+form and capacitance in farads She reminded us that a circuit diagram
+
+6
+00:00:26,355 --> 00:00:31,553
+simplifies a physical arrangement We examined a silicon chip under a camera
+
+7
+00:00:31,566 --> 00:00:36,382
+connected to a projector Its tiny scale contrasted with the old radio
+
+8
+00:00:36,395 --> 00:00:42,066
+receiver beside it A microprocessor could perform operations far more quickly than
+
+9
+00:00:42,079 --> 00:00:45,895
+the mechanical devices in the display but it still required a suitable
+
+10
+00:00:45,908 --> 00:00:51,974
+power supply An insulator prevented an unintended electrical connection while a loose
+
+11
+00:00:51,987 --> 00:00:57,934
+contact could interrupt transmission The class then discussed a photoelectric detector and
+
+12
+00:00:57,947 --> 00:01:03,079
+an optical sensor Both examples helped us link an invisible process to
+
+13
+00:01:03,092 --> 00:01:09,382
+a visible response The demonstration used enclosed educational equipment students did not
+
+14
+00:01:09,395 --> 00:01:14,408
+handle live household wiring The most useful insight was that a complex
+
+15
+00:01:14,421 --> 00:01:18,355
+device becomes easier to understand when its function is divided into a
+
+16
+00:01:18,368 --> 00:01:20,132
+sequence of manageable parts

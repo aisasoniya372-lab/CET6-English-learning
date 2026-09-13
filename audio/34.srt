@@ -1,0 +1,47 @@
+1
+00:00:00,103 --> 00:00:06,092
+Discussing Energy Carefully At a symposium a speaker explained nuclear fission using
+
+2
+00:00:06,105 --> 00:00:12,829
+a model reactor A uranium nucleus could split releasing energy The audience
+
+3
+00:00:12,842 --> 00:00:18,316
+then compared this process with combustion in a fossil-fuel plant A refinery
+
+4
+00:00:18,447 --> 00:00:23,776
+the speaker added served a different purpose from an electricity generator Mixing
+
+5
+00:00:23,789 --> 00:00:29,500
+these concepts would produce a misleading debate Students asked about thermal efficiency
+
+6
+00:00:29,711 --> 00:00:35,553
+carbon dioxide emission and the management of residual material No single number
+
+7
+00:00:35,566 --> 00:00:41,447
+could express every consequence The speaker recommended a framework that considered cost
+
+8
+00:00:41,618 --> 00:00:48,145
+reliability and environmental effects together A by-product that appeared negligible in one
+
+9
+00:00:48,158 --> 00:00:53,671
+experiment might matter at a larger scale Before proposing a drastic change
+
+10
+00:00:53,908 --> 00:00:59,118
+decision-makers should quantify the expected benefits and identify the assumptions behind them
+
+11
+00:01:00,026 --> 00:01:05,224
+A balanced discussion requires neither blind enthusiasm nor blanket rejection but a
+
+12
+00:01:05,237 --> 00:01:07,342
+clear account of the relevant evidence

@@ -1,0 +1,47 @@
+1
+00:00:00,103 --> 00:00:05,066
+Explaining Change to the Public An author used an elemental example to
+
+2
+00:00:05,079 --> 00:00:10,132
+explain a complex process A growing plant could originate from a tiny
+
+3
+00:00:10,145 --> 00:00:15,855
+seed yet its development depended on many conditions Readers should not confuse
+
+4
+00:00:15,868 --> 00:00:20,316
+a simple starting point with a simple outcome The author compared the
+
+5
+00:00:20,329 --> 00:00:24,671
+example with a different system carefully noting where the analogy would deviate
+
+6
+00:00:24,684 --> 00:00:29,632
+from reality She refused to let a memorable image perplex readers about
+
+7
+00:00:29,645 --> 00:00:35,803
+the underlying science A spectacular claim might attract attention but sheer novelty
+
+8
+00:00:35,816 --> 00:00:40,145
+did not make it true The final chapter urged readers to remain
+
+9
+00:00:40,158 --> 00:00:45,605
+curious They could marvel at a discovery without attributing it to superstition
+
+10
+00:00:46,513 --> 00:00:49,934
+They could acknowledge a mystery without assuming that it would remain forever
+
+11
+00:00:49,947 --> 00:00:55,974
+unexplained Scientific communication succeeds when it preserves wonder while making the limits
+
+12
+00:00:55,987 --> 00:01:01,790
+of knowledge visible An explanation can be both accessible and intellectually honest

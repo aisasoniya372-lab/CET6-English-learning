@@ -1,0 +1,779 @@
+[
+  {
+    "id": "01",
+    "title": "Learning with a Purpose",
+    "duration": 76.152,
+    "audio_sha256": "02daa7dc3083473bbe72702bbfab6be7b3c1a9cbc170894316747da06191a58c",
+    "subtitle_sha256": "67baa76f81f13ff64be5fdff6387adfcc86c05bed89255a3158848afe478de0f"
+  },
+  {
+    "id": "02",
+    "title": "From Vocabulary to Communication",
+    "duration": 75.432,
+    "audio_sha256": "74a041505be6b781d916f3008db091504669b05227470a442eb4e145b572c0a2",
+    "subtitle_sha256": "145187e440263cd29164531ac6936a1f6cec323bb8a84c7140a0373991290e1c"
+  },
+  {
+    "id": "03",
+    "title": "Fair Access to Education",
+    "duration": 81.552,
+    "audio_sha256": "95f3d439f0a5f2425afa459a6d08568bec3bc0bd96c9319538742388e91a705e",
+    "subtitle_sha256": "9f75abd045904ae3b653d7ba562779ea970abed86b1bb4d3b33d999d8b9c56e9"
+  },
+  {
+    "id": "04",
+    "title": "What a Survey Can Tell Us",
+    "duration": 87.192,
+    "audio_sha256": "e5778d9cf76b18639fe0d2cebdb57e009b300a50f7ce4c8d0708357f8f52b1b4",
+    "subtitle_sha256": "aa8d9d847152c31a7f33ea03d8cd88811f7dcbb2919b12bd288938a29dee5645"
+  },
+  {
+    "id": "05",
+    "title": "Progress after a Setback",
+    "duration": 78.912,
+    "audio_sha256": "6e9a9932c2c2384fbfadf319b5e1160c896d4ba977c7b649c2e1fb7ee5094b75",
+    "subtitle_sha256": "9373198f9f0ea5ea892404fb224a90e5f4ae9ea1320bdf24616100a2e4ba9aae"
+  },
+  {
+    "id": "06",
+    "title": "A Library for Everyone",
+    "duration": 79.944,
+    "audio_sha256": "f06a218829656928dde97b40349d99c568c94556c726d92f1af7f59f0c1b22fe",
+    "subtitle_sha256": "c5762397c4ab978930442eb29ab648781d6ffc80fb21acb4e7c9e4331d0c3cc7"
+  },
+  {
+    "id": "07",
+    "title": "Technology That Saves Time",
+    "duration": 77.616,
+    "audio_sha256": "edf40c4d87b9c4f87cd5b4e408eda8a8dab5dc0c388df5928d1bde9d6c24c35a",
+    "subtitle_sha256": "34dfa6e2749fc8c7c3dd3d8536b7a54026c710b722a18bf72a893660b33db5c4"
+  },
+  {
+    "id": "08",
+    "title": "Before You Share a Claim",
+    "duration": 81.888,
+    "audio_sha256": "daee016ceed0ccacb33aeecc40ca90055f0288e47bef7b26a2074cd8d8bb1177",
+    "subtitle_sha256": "ac4553bca2d8014d00e39ed5231afd7d685101b60cf6ce7b266186606a537d77"
+  },
+  {
+    "id": "09",
+    "title": "Human Judgment in an Automated World",
+    "duration": 81.432,
+    "audio_sha256": "c4ede4b0c7ccb68cc4d19bc4e9014bc812ddbc92bb14050b0f14cded5361bc01",
+    "subtitle_sha256": "60199ce6aecaf35363ce382a8659b24e19cc9dfbebc3f2d93e574fdef40ce09d"
+  },
+  {
+    "id": "10",
+    "title": "Choosing a First Job",
+    "duration": 84.48,
+    "audio_sha256": "ce5a2c7d49a9844d2ba1884aee025cf7b0241e1555838ed51988cc602054cb8d",
+    "subtitle_sha256": "b834533183845cb12687fa8c2fac03147c0481556d5cac9cbc02f188599bcfc6"
+  },
+  {
+    "id": "11",
+    "title": "A Repair Shop's First Year",
+    "duration": 73.992,
+    "audio_sha256": "4b1d2f9da1fb1ccd271bff0c3ae6f702b16c06083e9fb8433c0c52983511cde6",
+    "subtitle_sha256": "0146556930c8d2b7b34b6b903a2c3bd0430c939b7dbcece1bee4435489a6fbb2"
+  },
+  {
+    "id": "12",
+    "title": "Buying with a Clear Purpose",
+    "duration": 75.048,
+    "audio_sha256": "d1172ca0f3203ccd218392ca7d52a72c8d7fedebdcc76049feaa9396a1977b38",
+    "subtitle_sha256": "01dbe5823f70ff27a4cbf998f8b75ba4e3aab050f573751638663e6ea8aa775a"
+  },
+  {
+    "id": "13",
+    "title": "Craft in an Old Town",
+    "duration": 78.864,
+    "audio_sha256": "b434650547eab11cccd8829211ce673cd98894fcd620da53e4838fc5611b15cb",
+    "subtitle_sha256": "28ad573b599d6b4cd0a68ed7bdb365b35dbaa8fcaa5055114183ad8894da02ad"
+  },
+  {
+    "id": "14",
+    "title": "A Garden Built for Reflection",
+    "duration": 74.784,
+    "audio_sha256": "19e28d5b43534976fb5721a552272b086cf11e10dead8ecca64de23ab0a277ad",
+    "subtitle_sha256": "1974de124f6f84acb99135f1dd05226e488572d39d1bc7d2dfc91d2950369b6e"
+  },
+  {
+    "id": "15",
+    "title": "An Evening of Shared Traditions",
+    "duration": 78.576,
+    "audio_sha256": "a3106ccbfc2cdb1c5b52c99040493d5dddd2bac6f6d78df27d26c00bb7d072f1",
+    "subtitle_sha256": "8b8855f1e83358d239aa1d8f0a04c120588c759f893a2a70a980446ef414973c"
+  },
+  {
+    "id": "16",
+    "title": "Reading Objects in a Museum",
+    "duration": 74.712,
+    "audio_sha256": "a178c02f7ecacc3d22db6ae0f0b75851db87f8a2b77858f2aeccbf4af941da32",
+    "subtitle_sha256": "4fe756e1cedfd936c8441ab751c9aa6f19af378963f36793aadc27be82b7f79a"
+  },
+  {
+    "id": "17",
+    "title": "Music in a Shared Space",
+    "duration": 72.192,
+    "audio_sha256": "2821a020d03881f61cc4ac6b59cb63d2a26c771226745d769f8f5b337659a1a2",
+    "subtitle_sha256": "a63cba35a428fc81c72f3f3f22b158660a43aeeaafd116d358bbb5feb1910f4c"
+  },
+  {
+    "id": "18",
+    "title": "Renewal without Erasure",
+    "duration": 75.744,
+    "audio_sha256": "46496688d2e607b1461760cbeb7f6b311c8aeecd119bce88b0d6101ebf3bf431",
+    "subtitle_sha256": "a5763dafd0acf07b37c9f6d0b1c4475f294645980a90466de8986c5aea1d1e08"
+  },
+  {
+    "id": "19",
+    "title": "A Marsh Worth Protecting",
+    "duration": 75.144,
+    "audio_sha256": "56789b4312367766883a59980ac5ef86510555dd6acee9c03c3f54be901ef5bd",
+    "subtitle_sha256": "f313e9e138aadaea93c3e123c9dcab010e6c7e27f8461ec51fc37104eff7e97e"
+  },
+  {
+    "id": "20",
+    "title": "Watching Wildlife Responsibly",
+    "duration": 75.024,
+    "audio_sha256": "8a3ea9c4c6206cf920fcb6cabe4af84d06c3ec5d4e9b4a5ef55b65281ed1f4c3",
+    "subtitle_sha256": "2fe22d977700b24e803d38f9f0d93cfdb4e912cda86641c0accaf9e2be33ca86"
+  },
+  {
+    "id": "21",
+    "title": "Repair, Reuse, and Recover",
+    "duration": 78.504,
+    "audio_sha256": "2bd7cad94cf01ba576314ce10095abe0d7707aa8f2e07ac424adc2d0f975f657",
+    "subtitle_sha256": "cc8103681ba0d488ab447f7bb6b0813b4b82a64bd7acf29b68aaee0173249fcf"
+  },
+  {
+    "id": "22",
+    "title": "An Energy Audit on Campus",
+    "duration": 81.888,
+    "audio_sha256": "9716aed92a1f622f77966c30a6af00457ea28364872e6ab5ca96447c6d84c6e5",
+    "subtitle_sha256": "a150326055ff3e24c548739b0024b6dcd9a7b08275cc56a26e78d4293fbf45e5"
+  },
+  {
+    "id": "23",
+    "title": "A Farm's Changing Seasons",
+    "duration": 75.072,
+    "audio_sha256": "5cb3e46d56bbe929fd71378b57b55d58e2bf492daf3f75ba4e0347087dce9b61",
+    "subtitle_sha256": "b90efe7f05c28ac522b93c1169aeb8a38b1cf5c026382a1a90fba32637f3ce4c"
+  },
+  {
+    "id": "24",
+    "title": "A Morning by the Sea",
+    "duration": 73.368,
+    "audio_sha256": "2caaadca50bfea5e6d744f0c71d47a8188732bc9c3c83e937631a08f2fd74b9c",
+    "subtitle_sha256": "3973a96f4ed21ce7566b189bad74c667b783828e5ca1fcdadadde5677a74bf24"
+  },
+  {
+    "id": "25",
+    "title": "Mechanics at the Repair Bench",
+    "duration": 77.088,
+    "audio_sha256": "8064673d91bbc6d9bd20aefc4875b5bc487a026e4723fba14b44bc476c61e7f2",
+    "subtitle_sha256": "76b7b3a02b214c17c812d5105f75953c86f250a6068465263da29925a4247348"
+  },
+  {
+    "id": "26",
+    "title": "Inside a Materials Laboratory",
+    "duration": 81.528,
+    "audio_sha256": "e69ef887f7b8845d7dca69714f33d59bbbf6407895e5252dd2890b18775e9ede",
+    "subtitle_sha256": "a472e036fa31133923d11ab565fe05addd954f8f45458a3e38194d66d7720fce"
+  },
+  {
+    "id": "27",
+    "title": "Understanding a Simple Circuit",
+    "duration": 81.048,
+    "audio_sha256": "8ec7c11145224fb9cfd0bb3f067f575b43b0e299f8dafbf07bbfcaa6575731e6",
+    "subtitle_sha256": "f849cf882cd11ab55ec4adfe8aac49b19d2202c3f0142208713b45db503573be"
+  },
+  {
+    "id": "28",
+    "title": "Chemistry beyond Symbols",
+    "duration": 78.552,
+    "audio_sha256": "f69f120624501c299b5638704d0e84bb7113fa240b937f01ad7d708190a080fb",
+    "subtitle_sha256": "4b84aa683097c919467e3d4ba6329bd9befa0732ecf2a9c79e7470b8982a49ed"
+  },
+  {
+    "id": "29",
+    "title": "How Machines Transfer Energy",
+    "duration": 77.832,
+    "audio_sha256": "388f99502d68b84974b59e7e258b4a8a47ad5e22f6da927d8780f82140d297d8",
+    "subtitle_sha256": "e488d36f09940bea051e89b170ad0569ac4bf5ca620696b8d70004d9badf5070"
+  },
+  {
+    "id": "30",
+    "title": "Learning How Aircraft Fly",
+    "duration": 76.296,
+    "audio_sha256": "9b11a1ec0d718fd75396000b8ff80618d423d35485b7aee1db7f7560337a333e",
+    "subtitle_sha256": "eef0e6213aeb99b1cb555b8b6f7f5f07d9566d4104466d7b23ab5384f76dd1e4"
+  },
+  {
+    "id": "31",
+    "title": "Questions under the Dome",
+    "duration": 60.768,
+    "audio_sha256": "aa32de298ba7f33144f141c5780fb6fa28732cc4d7cdf2457336459fbe27175d",
+    "subtitle_sha256": "0412823866ed4edc0fb50880f6d4b2e7ce3fae619a55b392ff6847e4a6f0b9f7"
+  },
+  {
+    "id": "32",
+    "title": "Mathematics Made Visible",
+    "duration": 62.592,
+    "audio_sha256": "d834c6a41e492d3c587b515ba9fe70bce8e7d77a9f46f403bd4d8f140404538d",
+    "subtitle_sha256": "1bb97ad9f1307429900d6d9430be417c7e9d583fa385408ce9c65dcb43797998"
+  },
+  {
+    "id": "33",
+    "title": "Signals We Can Observe",
+    "duration": 60.168,
+    "audio_sha256": "9f67b538e118a95755d0f6ce77aa22d4d0791b71c5f53ae5e35eb3421fe7bd39",
+    "subtitle_sha256": "5e5b8454674a47587f6021fda35656c7bdb9712e93541ffcc35e743b9f30a5de"
+  },
+  {
+    "id": "34",
+    "title": "Discussing Energy Carefully",
+    "duration": 68.256,
+    "audio_sha256": "622fcd1ab2d0b4088a37d53b152267d0fec7b5f4bf7f207f62c716895ef2ee30",
+    "subtitle_sha256": "23cb64f65c78c305af215c517a475c16c4b69a3cd6abe358ab573a53106c63ed"
+  },
+  {
+    "id": "35",
+    "title": "Finding Our Way",
+    "duration": 58.632,
+    "audio_sha256": "ae1aa5b021a033efeba21ffae3d6c59a79b5dfb271366d39084cd0f94badf104",
+    "subtitle_sha256": "cecb626e6c8d07909e0859d6d5f45d609d42b7f416cef221c3b37db8f8358c9d"
+  },
+  {
+    "id": "36",
+    "title": "A Working Harbour",
+    "duration": 62.616,
+    "audio_sha256": "9d77b65df5f853af04021a60634c0a57ea91a606d46b1d60b891545e3099d51e",
+    "subtitle_sha256": "825ca82a754bf8613fa924cdf20fbdb75f834e213c7588437699f0db061dc268"
+  },
+  {
+    "id": "37",
+    "title": "Cooking Together",
+    "duration": 57.288,
+    "audio_sha256": "057adcda704025be3c95f45577a5ce6611340c7a853e5b8f6a3c53e4205779ab",
+    "subtitle_sha256": "533c0791a91f6592fcd5fd7cafc29f3f6336678fbfa61bc34ca63beb9a51ba0c"
+  },
+  {
+    "id": "38",
+    "title": "Describing a Problem Clearly",
+    "duration": 65.232,
+    "audio_sha256": "98513bc8257e4ea8c83094a08316c3354de894ad2f10b71194861ef3307fb560",
+    "subtitle_sha256": "47e27ec6b060651aa38ca3dec5c3ab6710a3a872f0b04a244c2a9db0ee5d3e25"
+  },
+  {
+    "id": "39",
+    "title": "Fitness without Comparison",
+    "duration": 66.936,
+    "audio_sha256": "2cb65674eb6d2782631efe3403d6553ad737ebe956796c3fe86e16ee1429ee31",
+    "subtitle_sha256": "fcff25a091d3ee27e5fb3e997aa2955c35790c738e2c7d014e9e32b5df9161b9"
+  },
+  {
+    "id": "40",
+    "title": "Sharing a Home",
+    "duration": 63.048,
+    "audio_sha256": "23f9427e6234bae98cfe152d428594901d7d74b14b14360e263b61ead177aab3",
+    "subtitle_sha256": "9d121e16fcaa808e51f4b18786ae0523a8c23d7eb2317bc6ea0a21ecec9f3e89"
+  },
+  {
+    "id": "41",
+    "title": "Rules for a Student Association",
+    "duration": 69.96,
+    "audio_sha256": "a9cd352ac4a008a6e49769b412931a0e23903e3f19f9e78ca8d2472d629c306d",
+    "subtitle_sha256": "b0d3f4659179f00367d5a50b918ead9fbddb961e185359e1d108be7e7c955f04"
+  },
+  {
+    "id": "42",
+    "title": "Integrity under Pressure",
+    "duration": 68.856,
+    "audio_sha256": "2b0bdfce0313c855d1a91eec55fdd93651ddb2eb00b43e655c6f093ed2d8fe1e",
+    "subtitle_sha256": "1820e1dffa59102a7dd76e22f12a34f576a80792882567c1c59d15eeaa404ce7"
+  },
+  {
+    "id": "43",
+    "title": "Evidence in a Mock Court",
+    "duration": 65.496,
+    "audio_sha256": "945fe80df6eb91253aa46d7b19de1fb1523c50ea73c3584ce8479916f3d2e152",
+    "subtitle_sha256": "416b4e9ea00a43851ef2c2cc18611464f8e6e5e591b18bb29fe0a5a8a3c112a1"
+  },
+  {
+    "id": "44",
+    "title": "Rebuilding after Conflict",
+    "duration": 73.92,
+    "audio_sha256": "08dd0991fe144f61a99905f36293b39c1201660c0c01af1328e002c319d1a2f9",
+    "subtitle_sha256": "0e49308d2412654dfcce0258022ecd0c6c94176e9d1b5b6fe2f16bf61e244da0"
+  },
+  {
+    "id": "45",
+    "title": "When Power Goes Unchecked",
+    "duration": 66.432,
+    "audio_sha256": "c906674571ee86b98dc43d5183ffecc69427698cb9534105ddd3716922e6dd29",
+    "subtitle_sha256": "711cc2f32b74753dd852702746134ea72f9fe2225a7062b8e120e32bf480b599"
+  },
+  {
+    "id": "46",
+    "title": "Reading about Belief",
+    "duration": 67.656,
+    "audio_sha256": "a69928c71825e08eb85db83f27e7d5a2e98f9c1853ae1c887bbae98e4a8ec976",
+    "subtitle_sha256": "e560d7084920a1b91484b20bfbd58274c08bbff3a67b2ef1b731c474b5767c64"
+  },
+  {
+    "id": "47",
+    "title": "Behind the Curtain",
+    "duration": 60.816,
+    "audio_sha256": "a376882f545d7f8fc3b15f941308b35dcda24fb45d155fd5773aad7589e8a547",
+    "subtitle_sha256": "ec9318e18844065972ed1ad7aa92c4ac2facfe9bab75c766c78f9d79541954d0"
+  },
+  {
+    "id": "48",
+    "title": "A Community Facing a Storm",
+    "duration": 60.984,
+    "audio_sha256": "2803c827f3a0167210e2edc8976630cc9586b89577725e18782823982ffcd5a8",
+    "subtitle_sha256": "9b7852c5bcfe72e08715ba149ebb87ef2f46c28f017c3cb3f7493d656a39baed"
+  },
+  {
+    "id": "49",
+    "title": "A Hike That Changed Course",
+    "duration": 59.592,
+    "audio_sha256": "bb84e946b24f7b82b325249a41e80eb1cb603040653196f9b1f021c14743322b",
+    "subtitle_sha256": "cb35573e199c33382d289019b423c92e259366c7f8d9bf2412e19af6ae2ad038"
+  },
+  {
+    "id": "50",
+    "title": "A Different Kind of Contribution",
+    "duration": 67.896,
+    "audio_sha256": "a59bf0169b48222dc5b1c5a6ba1aab6ae07cf37691bbd10b8689d05874ff9770",
+    "subtitle_sha256": "e7eee551ceff791fb6f4399adc5d4bc28ead20a52ae6f706d58498cac67245f2"
+  },
+  {
+    "id": "51",
+    "title": "Preparing to Move Abroad",
+    "duration": 68.832,
+    "audio_sha256": "e822550e17f5fdf22fc35c9914dbd23f2c4ef0866a8f42dc28c19ae1871dbb17",
+    "subtitle_sha256": "ccbb60d1498a28beb523e866b6daf07b93f7ffccbfcff6b9fb542f52f4e66529"
+  },
+  {
+    "id": "52",
+    "title": "Understanding a Cash Shortage",
+    "duration": 64.728,
+    "audio_sha256": "c60f11a4adfc63be99a76fffcb1e89ec61e11b9eef81d8ff9e4cb6ab954da44c",
+    "subtitle_sha256": "993683c55276b70381f24255897b1a4fa1ccb0805be3e998c7b83bc8e0b87712"
+  },
+  {
+    "id": "53",
+    "title": "Asking Questions at a Trade Fair",
+    "duration": 67.008,
+    "audio_sha256": "4e2a80c349138f38966b9637ab857d1c01cd5a7396fad5978ea22835f7a25151",
+    "subtitle_sha256": "efd4e3b4d340905c5d58493f62a87ad0c87f621d550aa471a43f762471f2bbc4"
+  },
+  {
+    "id": "54",
+    "title": "A Wedding within Our Means",
+    "duration": 60.984,
+    "audio_sha256": "26b243559aa65cc4b54ca6f854c7e485b42d6d535f7e3276248d6f8e66f19c0e",
+    "subtitle_sha256": "053b7b75ee6514526b6998b43f7f2bbe64c858b98bfb59664390efff575914c0"
+  },
+  {
+    "id": "55",
+    "title": "Patience in a Baking Class",
+    "duration": 58.224,
+    "audio_sha256": "d83bd4497f8bd1cc78061a766ec2b53e84c1f89d24b61330f29393aaae7ffc12",
+    "subtitle_sha256": "3de44daf38b2c3ff4115af1a5fed791b097206737337e4e7191cbf5f26b419a4"
+  },
+  {
+    "id": "56",
+    "title": "Reading in a Waiting Room",
+    "duration": 65.448,
+    "audio_sha256": "452361a0eb1daed45f37b311b8a251aef048a802b798fb3bb225cd90e31ae4dc",
+    "subtitle_sha256": "6755a0b886d1e0ba9dbc42e7dab0d3c80602ca4ebf04df2986297de185600f26"
+  },
+  {
+    "id": "57",
+    "title": "Tools and Work on a Farm",
+    "duration": 59.52,
+    "audio_sha256": "baf7cd575cb96939fc4ba51dff096cac5916010b75027a06c25484851f951423",
+    "subtitle_sha256": "e865cbd91ba2adcf4ee6b5adb8277c017c6c0921a8f60006d8a0de84b80592ac"
+  },
+  {
+    "id": "58",
+    "title": "From a Forge to a Factory",
+    "duration": 68.328,
+    "audio_sha256": "3c4bec64e9b44e0185b81025987f59a38ed9fc1b11dad4d8564003dc1a3e2709",
+    "subtitle_sha256": "3a1258452d24e9ccf8024442f9b34374cfca854efe8f92b19262ce8881207127"
+  },
+  {
+    "id": "59",
+    "title": "Reading a Character Closely",
+    "duration": 63.216,
+    "audio_sha256": "e0bbd70a646a49e334810efdbbe926efd872961305b8d08fe68205002877025d",
+    "subtitle_sha256": "4f68dc49c21dfec04f51921a8ebbe05ad9ad83d1467430ebef3e51509fdace98"
+  },
+  {
+    "id": "60",
+    "title": "Words across Time",
+    "duration": 67.104,
+    "audio_sha256": "26789278c2bf2d8e239a24f35e56d0d23c05492046e13f59352e35c999db4029",
+    "subtitle_sha256": "d3496a3a1b8f3312bf648cb1538706b675b164919a8f4bc39298c4123120a2e1"
+  },
+  {
+    "id": "61",
+    "title": "Choosing a Response",
+    "duration": 69.024,
+    "audio_sha256": "3b66b4083926cc559ad5811341f5314851b16645a14953fc78745bd30fc62074",
+    "subtitle_sha256": "91973c61fec5dee11213a7910637a9a0be7a804740a8f10dc59c0c04a92c7f75"
+  },
+  {
+    "id": "62",
+    "title": "Clues in a Radio Drama",
+    "duration": 59.496,
+    "audio_sha256": "9828f4a8a4a9095cb16e621591831053deb687b03360d45375adaa37c1fb065b",
+    "subtitle_sha256": "c201d1e696562e68d21ea5191484830da4a7c0bf8d97688db8ba4a7a1bac9779"
+  },
+  {
+    "id": "63",
+    "title": "Fair Play on the Field",
+    "duration": 62.736,
+    "audio_sha256": "f30771b44c8f71ad5666621bd43e05ecf0bf27cbeb933ae9d63b0552ade98726",
+    "subtitle_sha256": "623530aa5a64d46c4ee225bdc6ec78e994dcd2ac39230f8b530da77835d36586"
+  },
+  {
+    "id": "64",
+    "title": "A Delay at the Station",
+    "duration": 60.576,
+    "audio_sha256": "394fb4e8b2efacae5c78d3f6df30874f07b42f0dd911844b74012ba10b282692",
+    "subtitle_sha256": "ad5d5d5ac72ffa6b49c5a8e1af3228c694eef434d54f180162ebc9b3f9773152"
+  },
+  {
+    "id": "65",
+    "title": "Learning to Observe Behaviour",
+    "duration": 60.696,
+    "audio_sha256": "e6d0e05a5172dd91417488e26f61b36772982e19d2b6c467d34a777e9a532fad",
+    "subtitle_sha256": "60a5f8ad48d7158cf7873765ee64d9fd65197a8ac11167dadbd6cbb3a04e1aea"
+  },
+  {
+    "id": "66",
+    "title": "Understanding Difficult Feelings",
+    "duration": 67.872,
+    "audio_sha256": "9bee60bf5a1a1779b9bec5c752337cd6cb523ccd056c991bcf297a5a5521259f",
+    "subtitle_sha256": "3553e99421e6d6fe16d180d7e1ef283325a22c4e1e36378102b099b7dda11cbd"
+  },
+  {
+    "id": "67",
+    "title": "Reading a Landscape",
+    "duration": 62.112,
+    "audio_sha256": "d2d75ac9297aa1b34df7db44567e4708853b746505eb341edabfa04a996a5a35",
+    "subtitle_sha256": "a5d6e175ad5acdb009b487b84d14b55c5a92d9010b0e2bfcf2b6ee01a19d0cfa"
+  },
+  {
+    "id": "68",
+    "title": "Measuring Small Changes",
+    "duration": 65.496,
+    "audio_sha256": "706821a7af50ff3c013c4d6a09abb6d1f0ae1d732b3f81161ad6e5a618295575",
+    "subtitle_sha256": "27c8c53839a950e202dcbe866e3c0377d0af36318af1ca711222df7d38aa5480"
+  },
+  {
+    "id": "69",
+    "title": "Turning Evidence into a Thesis",
+    "duration": 61.728,
+    "audio_sha256": "a24d8c403525305952eac7635d27530652c5c0ec00c6a8ddb3323bbd00d076ce",
+    "subtitle_sha256": "ffbccfba62aa2e23187644e525300c2d3ee2bda87f8d9a04f2e611d80babf65d"
+  },
+  {
+    "id": "70",
+    "title": "Speaking without Performing Confidence",
+    "duration": 65.256,
+    "audio_sha256": "103ebc0b179f565ede32bcb8647f935d00c83bde6e7d3e5937a4f553da639dd9",
+    "subtitle_sha256": "37da0412908d68ffc39b4abe7e409d10050113787977cb13a0b07ba876bad6b9"
+  },
+  {
+    "id": "71",
+    "title": "From a Petition to a Decision",
+    "duration": 74.016,
+    "audio_sha256": "ad3f9875f3cb62127f03db1dbad825849b025b62def75c0e6b2809ac6369de9e",
+    "subtitle_sha256": "6108d68cb849737478b02a6c551db32f01e24b5cd76b69f4630f9c1aa774134d"
+  },
+  {
+    "id": "72",
+    "title": "Editing a Sensitive Report",
+    "duration": 64.968,
+    "audio_sha256": "e9c8f77d7730df9f3e80bd0ef53fb63fa44712846029e8b2ec1b51475c75dac1",
+    "subtitle_sha256": "f6ac503cca1debb1596362cc000156a09792442bc84d9272c35566e3edd469f4"
+  },
+  {
+    "id": "73",
+    "title": "Small Actions at a Workbench",
+    "duration": 61.296,
+    "audio_sha256": "b9d8cbc7d14d47ee859e50ba9f70797f0d09927b7cfe5550836accaaa0c96165",
+    "subtitle_sha256": "2102631673a4f8cb0c89b2088e9470b60ccc9b3c913582fc1e94f393ba14c859"
+  },
+  {
+    "id": "74",
+    "title": "Watching a Liquid Change",
+    "duration": 69.624,
+    "audio_sha256": "3737972bc398fbac4bda53364eb498aa8c72f19af011f0783bcb7796c8ecbfc2",
+    "subtitle_sha256": "ee1098c42f0a178ffe8240c413ad34068cb1c91a61eb8a0a309cfb3acaeab355"
+  },
+  {
+    "id": "75",
+    "title": "Comparing Habitats",
+    "duration": 61.08,
+    "audio_sha256": "f59fce333fd3e429d3716052b8f05c9ef73115b56560548ba133eb089a18a8ce",
+    "subtitle_sha256": "e8463101a9f4dd62821234e6eb9c5220a1491a2f00516cbf533aac317cd9d75b"
+  },
+  {
+    "id": "76",
+    "title": "A Boat in Changing Weather",
+    "duration": 56.208,
+    "audio_sha256": "4d530cfe993caa8e5776b44a926e438277481087be898ded4c5e936851f4f664",
+    "subtitle_sha256": "e077575ac772d8bf8f6d65e2b24825ff950005386fc22f6f5dde678167d11909"
+  },
+  {
+    "id": "77",
+    "title": "Titles, Memory, and Interpretation",
+    "duration": 65.136,
+    "audio_sha256": "19789d3c6946c51ce6b68444769e4b278f26f95d1096e82b29e41dcbb46903c6",
+    "subtitle_sha256": "c26099b9242a758330b64bb7cc11fc351af7342ccf64184baf7d61dee25cee36"
+  },
+  {
+    "id": "78",
+    "title": "After a Rejection",
+    "duration": 62.616,
+    "audio_sha256": "34cd0468f3e7d27a6d7acf3b4ad65bd326f21a6d74047350a633bc7ba31af1ee",
+    "subtitle_sha256": "6e4a359bff8f02aa0c0f1e1bb139ea4f6e3a8cc4bcc74bbd65a8af23cb5216bd"
+  },
+  {
+    "id": "79",
+    "title": "An Induction Week",
+    "duration": 61.392,
+    "audio_sha256": "5f5d1a10528024eb20b412beb973b70dc99ff31923b1fee16738ed6271b0e7c6",
+    "subtitle_sha256": "6ed0e37960ebb5e8545673f2e7d0834510bd6819999b54e2759926c6730670a9"
+  },
+  {
+    "id": "80",
+    "title": "Starting a Shared Project",
+    "duration": 62.928,
+    "audio_sha256": "144f1bd6d8f487ae9b85c0f099f42d6e93b361e550df5120fe9d200c8f5d1cc8",
+    "subtitle_sha256": "51e5ea45adfbb9cd644dfcadcef3ba82db94996db309470f78733f3f6f94fcb2"
+  },
+  {
+    "id": "81",
+    "title": "Explaining Social Change",
+    "duration": 55.704,
+    "audio_sha256": "3fc54d2ffef55f6b77a03653a2833593c9b00ed7be411075c56ada55193feeba",
+    "subtitle_sha256": "184e33d726a20107f820ec64e31c5e905c80d3864d5ba09a6e417e33c59d0e8f"
+  },
+  {
+    "id": "82",
+    "title": "Testing a Reform",
+    "duration": 49.728,
+    "audio_sha256": "55eb1a8f0f6a5b4a4f0977acc25333731598c841fe072d5dae3cd339d65be47f",
+    "subtitle_sha256": "8e0c5e8ac48cff2ade42825573980d8c0f1a141940c2bcdae8ffd912375479dd"
+  },
+  {
+    "id": "83",
+    "title": "Making an Idea Work",
+    "duration": 48.792,
+    "audio_sha256": "e3741771164e1a1adbc1c254e7d06b2428388d1813aec93cd7085dce751c9d53",
+    "subtitle_sha256": "cd2619dc6efc8733ec610ff4886fe2f3379301a97fbc1fad2d010a0b69566a77"
+  },
+  {
+    "id": "84",
+    "title": "Taking Over a Team",
+    "duration": 50.52,
+    "audio_sha256": "4654693f7235b9a360235d4533b6576d81d36c5e0a4abf2e3c26dbd815bcde3c",
+    "subtitle_sha256": "78d7ecab12072e3fa9e04792028c42888af18f0342c160acce63fa583d2ec600"
+  },
+  {
+    "id": "85",
+    "title": "At the Bazaar",
+    "duration": 48.288,
+    "audio_sha256": "88b92743d8bfbf290cccc9df4489fcd2561c4ce2eac17bbb409bf8f81308228a",
+    "subtitle_sha256": "afee728b80ff23aaa4401bb0815684649876f148ba7670d7492870c7b9849d04"
+  },
+  {
+    "id": "86",
+    "title": "A Night at the Inn",
+    "duration": 46.032,
+    "audio_sha256": "9ff1f3464d4c4eae1946f9ad09f1104c0da17cf7414acb4cd68ed54dc42656c1",
+    "subtitle_sha256": "3bbf2e6d108024aa55041d4733b39511dd8cc4bfbd22f4bc94287779a15f843a"
+  },
+  {
+    "id": "87",
+    "title": "A Safety Drill",
+    "duration": 48.168,
+    "audio_sha256": "74eace7e3ef928e84211946f3a9604c41046e4bc18a81d3045b4c329236a5099",
+    "subtitle_sha256": "d31a92dd981bc3285374883dc5806349de8304e24bb5bd8046b65fb3da3d2fbb"
+  },
+  {
+    "id": "88",
+    "title": "A Volunteer in the Ward",
+    "duration": 43.32,
+    "audio_sha256": "73a96455df49611ea7c0a86699ff8f8bec3081ac583b648c2f453dadcb5573b7",
+    "subtitle_sha256": "bc6e5fa14f1e07c64dcaaf62105ce117fe8ccd6ea713170006a3c14fa5f0b2c5"
+  },
+  {
+    "id": "89",
+    "title": "Reading Difficult Archives",
+    "duration": 49.776,
+    "audio_sha256": "cb37723123b1701fc5f2c9508055aeddb11571d2c7f26177ef96fafaea1c693f",
+    "subtitle_sha256": "588d17a081f62fa5c4f38e20bfc883c483db49df38a88ba48d09ca7fb470b428"
+  },
+  {
+    "id": "90",
+    "title": "Motion on Display",
+    "duration": 49.608,
+    "audio_sha256": "43682a0729872f218be74df08628577ce50718a4d690e9e8c41c885b8acd511e",
+    "subtitle_sha256": "f7e67eb6664da6a9d02592a8d6c07f409f13e0251f661e4a532e64e512d6979d"
+  },
+  {
+    "id": "91",
+    "title": "Rehearsing a Scene",
+    "duration": 59.376,
+    "audio_sha256": "3136343e838bc9d43171914b60ff0ae0f645429b7a7c3c699f8b685b8eb69651",
+    "subtitle_sha256": "1f360157c3d2c7bc07e2c87e80597da396ce2223467e2e0c5d19689f7ac6e93b"
+  },
+  {
+    "id": "92",
+    "title": "Looking without Labels",
+    "duration": 59.832,
+    "audio_sha256": "f47eb918dc51ee2056970cedabc72c608f29e9fd948dda7dd70a1bb619e13a2c",
+    "subtitle_sha256": "5c261b2169d15002ad5e3995c7393220ad14f9fa7f46f6e0e754bc0237fbc893"
+  },
+  {
+    "id": "93",
+    "title": "Suspense and Action",
+    "duration": 63.768,
+    "audio_sha256": "7cd501620bd5615ee702c532492464adaaa0cd25c802d18a352c081b5753e20c",
+    "subtitle_sha256": "59f1fa596e712cb4f3c42dd62de58050fe6863901cc337b3aaae128e9903af6c"
+  },
+  {
+    "id": "94",
+    "title": "Beyond First Impressions",
+    "duration": 62.496,
+    "audio_sha256": "16c4622f577b9997060d1ae5687da15902c683068d58be5d2e3d5c48a74cbefa",
+    "subtitle_sha256": "d24705a3ee0ecc2561f39c79018e60fe783cf65215122c2d7ff8c5602716c173"
+  },
+  {
+    "id": "95",
+    "title": "The Scope of a Conclusion",
+    "duration": 64.392,
+    "audio_sha256": "7838f5f06d77e872001f046bae96889b72922adeff0361817f6b14f52982f720",
+    "subtitle_sha256": "bbc09dda0a8c5f90aa6ea23ff0aac071cc801c279eda5b5bd72bbd689f90713e"
+  },
+  {
+    "id": "96",
+    "title": "Trade and Responsibility",
+    "duration": 64.584,
+    "audio_sha256": "b65075b3179a3dada88333e9f2db50fc5dfdc9f590f25254c3e03654d6ea09f7",
+    "subtitle_sha256": "769eba12e29e59c75b7af9e47fd898088fa62824bf6424a30079f359ee7fb37b"
+  },
+  {
+    "id": "97",
+    "title": "Staying with a Project",
+    "duration": 64.56,
+    "audio_sha256": "4125991cdeb1a2e6cfdb69938918b509f29552a0782417e0f3527374b5114065",
+    "subtitle_sha256": "f9d16bdd07edf7b686d57fc01ad387efa28064972813474ee3af858689320213"
+  },
+  {
+    "id": "98",
+    "title": "Saying No Clearly",
+    "duration": 55.344,
+    "audio_sha256": "a1c6cefc76b1abf0405b952745ae761eb9c3d705fd2585c7c60c5b5657cc741b",
+    "subtitle_sha256": "de968b313f84140f7386e9d622c0fd55eb51917dbe368d4aed84f50ba1bc3ad5"
+  },
+  {
+    "id": "99",
+    "title": "Reading an Old Advertisement",
+    "duration": 62.928,
+    "audio_sha256": "802170ad056450ecd2f0ba49e2f1891b32048fd4d678d21639893fcc6b6a801c",
+    "subtitle_sha256": "9801f63c1d688ba00f9049dd3de5569b62550cd9df1b2e9d927f0821290f2829"
+  },
+  {
+    "id": "100",
+    "title": "A City in Photographs",
+    "duration": 60.024,
+    "audio_sha256": "6a6d3135b082d27a6ce866471b12f2383f8f0679332653ffebf8de0cd1f1863e",
+    "subtitle_sha256": "78c0a162ab730659633a8c57238afbf119dd24c353b574ad6a67b32b0274d320"
+  },
+  {
+    "id": "101",
+    "title": "Acting without Exaggeration",
+    "duration": 68.112,
+    "audio_sha256": "91f87f5d909c205af41f16988334f37cefac2ed182b9d22d356baa4b78dc2179",
+    "subtitle_sha256": "0973852f09407f217a083868d33269c0ac3ae8a3bb44efecb8b640b22292f03f"
+  },
+  {
+    "id": "102",
+    "title": "Preparing for a Repair Day",
+    "duration": 66.576,
+    "audio_sha256": "b20c593085d946c44da1f8ffc3df822f1432b8888b74025bc140e46067b8e59b",
+    "subtitle_sha256": "c12dc159fc2fa5d5437039a7a2459f27ead7b26c977e9202b4e4c62a36e5c3f5"
+  },
+  {
+    "id": "103",
+    "title": "An Incident at Sports Day",
+    "duration": 61.272,
+    "audio_sha256": "326279eac131fcdf4de776738ff4abdc4653f024f27d73a3b81e973c0fd59847",
+    "subtitle_sha256": "53e524af2d0e70d6f2279a89e31c1a507e564f65a600942e186554fd1a47c108"
+  },
+  {
+    "id": "104",
+    "title": "How a Claim Travels",
+    "duration": 70.488,
+    "audio_sha256": "10d0457daace1c4353f177b3af3f7acf51978d2a806564b2352657d2182cdeb1",
+    "subtitle_sha256": "5696e6537125a0bb2bbe2123252eb5b1dbc9d32188990bdb61ab29b355d3269e"
+  },
+  {
+    "id": "105",
+    "title": "Choosing a Short Break",
+    "duration": 61.512,
+    "audio_sha256": "2c764426dc8fee95e00937c80c52f70754af6076f055f1815e31a2884773a19f",
+    "subtitle_sha256": "bb3187b58ad8c6543d306ca46119e3571e6a44a95a34ecc0ed20d10893d424da"
+  },
+  {
+    "id": "106",
+    "title": "A Talk That Changed Direction",
+    "duration": 64.44,
+    "audio_sha256": "66216777966139ab6c114052fbde87b9d6278a631ae8691d28f95e64be6c10b3",
+    "subtitle_sha256": "726817dc24207f75445d2aecc6de2989f1b780b336b064857b2554a239537dcb"
+  },
+  {
+    "id": "107",
+    "title": "Keeping a Useful Project Log",
+    "duration": 67.152,
+    "audio_sha256": "36813420cfe09a2499936b2c0e08c2af332cefb0b63e2dde15cbd854a8edff9c",
+    "subtitle_sha256": "a92a66817cf7b62817920b8003ea6907066cb593439fdecbef61cf5491d5bf82"
+  },
+  {
+    "id": "108",
+    "title": "Explaining Change to the Public",
+    "duration": 62.712,
+    "audio_sha256": "da88f9175bb7e756dcde0a2a6e7379c247063c71608ae113cc84bb44ee7c6b52",
+    "subtitle_sha256": "ccfba94a08e571c7758b48c3900bf932d22d9f609831e95c9f057cd6253ec9f8"
+  },
+  {
+    "id": "109",
+    "title": "Cooperation under Pressure",
+    "duration": 61.536,
+    "audio_sha256": "aba54dcf492dd5be900b9119550bbc44f0321fcfd579be0bb8d7a5ac3dca3568",
+    "subtitle_sha256": "f1e21789aac77908f4dc848b0498569998dc821608ab466b6cfd0a390d23f740"
+  },
+  {
+    "id": "110",
+    "title": "Choosing the Right Register",
+    "duration": 51.912,
+    "audio_sha256": "f702f332ca42ebeb782d29e05331dee7923f925c3fcd95ad9ae5659aa82a8498",
+    "subtitle_sha256": "0db28af08c2db4c7583d9f4034a11f2b04dc04e61f07b245bcc9e9eccb5457b4"
+  },
+  {
+    "id": "111",
+    "title": "A Day in a Coastal Village",
+    "duration": 58.008,
+    "audio_sha256": "0980b4bff926072e55c6d9dc6a935a717d4f9729a81bded2fdaf61557472303a",
+    "subtitle_sha256": "3ed972976eb50abae82b907b7f72b72cce73513c7ad1b68fa49cc0055b9073fd"
+  }
+]

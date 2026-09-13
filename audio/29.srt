@@ -1,0 +1,63 @@
+1
+00:00:00,103 --> 00:00:05,803
+How Machines Transfer Energy At an engineering exhibition a small windmill stood
+
+2
+00:00:05,816 --> 00:00:09,750
+beside a model turbine A moving stream of air could turn a
+
+3
+00:00:09,763 --> 00:00:14,592
+rotor and drive a dynamo Another display used a transparent hose to
+
+4
+00:00:14,605 --> 00:00:20,368
+illustrate a hydraulic system while a sealed model demonstrated pneumatic motion The
+
+5
+00:00:20,382 --> 00:00:25,868
+guide compared these mechanisms without suggesting that they were interchangeable A pulley
+
+6
+00:00:25,882 --> 00:00:30,868
+helped raise a weight and a spring stored energy when compressed Visitors
+
+7
+00:00:30,882 --> 00:00:34,211
+could observe the kinetic energy of a moving trolley and the friction
+
+8
+00:00:34,224 --> 00:00:39,737
+that slowed it A rotating propeller produced thrust in an enclosed demonstration
+
+9
+00:00:40,013 --> 00:00:44,368
+helping explain one form of propulsion The shape of the blade and
+
+10
+00:00:44,382 --> 00:00:48,842
+the rate of rotation affected the result The instructor asked us to
+
+11
+00:00:48,855 --> 00:00:54,947
+consider both useful output and unwanted losses Vibration heat and sound could
+
+12
+00:00:54,961 --> 00:00:59,921
+dissipate energy that might otherwise perform work A smooth motion did not
+
+13
+00:00:59,934 --> 00:01:05,210
+imply a perfect machine By identifying where losses occurred a designer could
+
+14
+00:01:05,224 --> 00:01:10,079
+modify a component streamline a process or choose a more suitable mechanism
+
+15
+00:01:10,987 --> 00:01:15,250
+Engineering progress often comes from a series of careful improvements rather than
+
+16
+00:01:15,263 --> 00:01:16,908
+a single dramatic invention

@@ -1,0 +1,47 @@
+1
+00:00:00,103 --> 00:00:06,566
+Measuring Small Changes We used a pendulum to examine periodic motion Its
+
+2
+00:00:06,579 --> 00:00:10,579
+regularity looked impressive but the teacher asked us to measure rather than
+
+3
+00:00:10,592 --> 00:00:16,237
+assume A small change in length could affect the result We recorded
+
+4
+00:00:16,250 --> 00:00:20,566
+a vector's direction in one exercise and a scalar magnitude in another
+
+5
+00:00:20,816 --> 00:00:26,487
+taking care not to confuse them Next a magnet helped demonstrate attraction
+
+6
+00:00:26,500 --> 00:00:32,645
+and repulsion We observed polarity and discussed magnetism before considering induction in
+
+7
+00:00:32,658 --> 00:00:37,474
+a separate apparatus A nearby display showed how a filament could glow
+
+8
+00:00:37,487 --> 00:00:41,105
+and how a narrow opening formed a slit in an optical experiment
+
+9
+00:00:42,013 --> 00:00:47,224
+Each group had to tabulate observations compare the resultant values and explain
+
+10
+00:00:47,237 --> 00:00:51,882
+a possible source of error A parameter was held constant while another
+
+11
+00:00:51,895 --> 00:00:59,237
+changed Where a relation appeared inversely proportional we checked several points Scientific
+
+12
+00:00:59,250 --> 00:01:04,579
+confidence increased through repeated examination not because the first result looked elegant

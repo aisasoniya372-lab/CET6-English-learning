@@ -1,0 +1,39 @@
+1
+00:00:00,103 --> 00:00:04,355
+Making an Idea Work A student tried to conceive a device to
+
+2
+00:00:04,368 --> 00:00:09,355
+help users with limited hand movement unlock a door Her inspiration came
+
+3
+00:00:09,368 --> 00:00:13,250
+from a relative's struggle with a stiff handle The aim was to
+
+4
+00:00:13,263 --> 00:00:19,829
+reduce a practical handicap A versatile design needed careful testing A loosely
+
+5
+00:00:19,842 --> 00:00:23,434
+connected part could stall and a sharp edge could prick a finger
+
+6
+00:00:24,342 --> 00:00:29,250
+Latent problems forced her to restrain her enthusiasm The team would exert
+
+7
+00:00:29,263 --> 00:00:35,000
+a small force and compare responses systematically The prototype did not surpass
+
+8
+00:00:35,013 --> 00:00:41,474
+every existing product Nevertheless it revealed a neglected need The essence of
+
+9
+00:00:41,487 --> 00:00:46,342
+useful design lies in testing ideas against reality a modest invention can
+
+10
+00:00:46,355 --> 00:00:47,882
+exemplify this principle

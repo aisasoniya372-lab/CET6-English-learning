@@ -1,0 +1,47 @@
+1
+00:00:00,103 --> 00:00:06,000
+Mathematics Made Visible Our teacher used a rectangle a triangular frame and
+
+2
+00:00:06,013 --> 00:00:11,092
+an oval mirror to introduce geometrical thinking A radius linked a circle's
+
+3
+00:00:11,105 --> 00:00:14,789
+centre to its edge a perpendicular line met another at a right
+
+4
+00:00:14,803 --> 00:00:20,224
+angle We compared radial and transverse directions before drawing a spiral and
+
+5
+00:00:20,237 --> 00:00:26,000
+an arc The algebra lesson began with a simple equation We expressed
+
+6
+00:00:26,013 --> 00:00:30,711
+a fraction as a decimal practised multiplication and used a subscript to
+
+7
+00:00:30,724 --> 00:00:35,987
+distinguish related quantities A linear relation appeared as a straight line on
+
+8
+00:00:36,000 --> 00:00:42,658
+our graph Its gradient helped describe change Later calculus would extend that
+
+9
+00:00:42,671 --> 00:00:48,053
+idea The teacher distinguished a finite interval from infinity and explained why
+
+10
+00:00:48,066 --> 00:00:53,697
+an infinite process could require careful reasoning Saying that something grows infinitely
+
+11
+00:00:53,711 --> 00:00:58,658
+does not replace a proof Even when a diagram appears symmetrical its
+
+12
+00:00:58,671 --> 00:01:01,671
+symmetry must be examined not merely presumed

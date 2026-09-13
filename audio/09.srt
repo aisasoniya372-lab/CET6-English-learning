@@ -1,0 +1,59 @@
+1
+00:00:00,103 --> 00:00:05,711
+Human Judgment in an Automated World A laboratory introduced a virtual assistant
+
+2
+00:00:05,724 --> 00:00:11,053
+to summarize research papers It could scan a manuscript extract a theme
+
+3
+00:00:11,276 --> 00:00:16,421
+and generate a brief exposition within seconds For a busy researcher the
+
+4
+00:00:16,434 --> 00:00:22,158
+potential gain in productivity was substantial The tool could also classify material
+
+5
+00:00:22,171 --> 00:00:27,105
+by category and reveal a pattern that a reader might overlook However
+
+6
+00:00:27,211 --> 00:00:31,947
+an elegant summary could still contain a blunder The assistant might invent
+
+7
+00:00:31,961 --> 00:00:36,289
+a reference confuse a theory with a proven theorem or confidently assert
+
+8
+00:00:36,303 --> 00:00:43,013
+something unsupported A polished tone was no guarantee of sound reasoning Consequently
+
+9
+00:00:43,132 --> 00:00:47,421
+the laboratory required a human review before any generated passage entered a
+
+10
+00:00:47,434 --> 00:00:53,132
+formal report Researchers had to ascertain whether each citation existed and whether
+
+11
+00:00:53,145 --> 00:00:59,039
+it supported the associated claim As useful as automation can be responsibility
+
+12
+00:00:59,053 --> 00:01:04,408
+remains with the people who deploy it A sophisticated mechanism can facilitate
+
+13
+00:01:04,421 --> 00:01:10,342
+analysis it cannot justify careless judgment The team's guiding principle was to
+
+14
+00:01:10,355 --> 00:01:16,079
+preserve human oversight while using technology to lessen repetitive work They measured
+
+15
+00:01:16,092 --> 00:01:20,513
+success by dependable results not by the mere rapidity of a response

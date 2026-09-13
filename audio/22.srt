@@ -1,0 +1,63 @@
+1
+00:00:00,103 --> 00:00:05,013
+An Energy Audit on Campus Our college invited an engineer to assess
+
+2
+00:00:05,026 --> 00:00:10,513
+energy consumption in the oldest building She examined the boiler the radiator
+
+3
+00:00:10,737 --> 00:00:15,513
+and the pipe network before checking the insulation A small leakage near
+
+4
+00:00:15,526 --> 00:00:19,724
+a junction had gone unnoticed and an inefficient heater was consuming more
+
+5
+00:00:19,737 --> 00:00:25,526
+power than necessary The proposed replacement would require an initial investment but
+
+6
+00:00:25,539 --> 00:00:31,289
+might reduce long-term costs During her presentation the engineer explained that a
+
+7
+00:00:31,303 --> 00:00:35,816
+watt describes power while energy use depends on both power and duration
+
+8
+00:00:36,724 --> 00:00:41,000
+A kilowatt is a thousand watts She then showed how a sensor
+
+9
+00:00:41,013 --> 00:00:44,618
+could regulate indoor lighting according to brightness and whether a room was
+
+10
+00:00:44,632 --> 00:00:50,066
+occupied A solar panel might supply part of the building's electricity but
+
+11
+00:00:50,079 --> 00:00:55,605
+its contribution would vary with conditions The students wanted a single spectacular
+
+12
+00:00:55,618 --> 00:01:02,368
+solution The engineer instead recommended a sequence of measurable improvements insulate exposed
+
+13
+00:01:02,382 --> 00:01:09,171
+pipes repair faulty controls ventilate rooms appropriately and monitor the outcome Not
+
+14
+00:01:09,184 --> 00:01:14,684
+every impressive technology produces the optimum result in every setting A careful
+
+15
+00:01:14,697 --> 00:01:19,158
+assessment of actual needs is indispensable to an effective transition towards more
+
+16
+00:01:19,171 --> 00:01:20,974
+efficient energy utilization

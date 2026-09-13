@@ -1,0 +1,63 @@
+1
+00:00:00,103 --> 00:00:05,289
+Mechanics at the Repair Bench At the repair bench the instructor asked
+
+2
+00:00:05,303 --> 00:00:09,960
+us to mount a bicycle securely before examining the rear wheel We
+
+3
+00:00:09,974 --> 00:00:14,513
+checked the axle the bearing and the alignment of the frame A
+
+4
+00:00:14,526 --> 00:00:18,895
+bent shaft could make a rotating part move unevenly while excessive friction
+
+5
+00:00:18,908 --> 00:00:23,395
+could waste energy The instructor used a wrench to tighten a nut
+
+6
+00:00:23,408 --> 00:00:27,763
+and a lever to lift a heavy component Next came a demonstration
+
+7
+00:00:27,776 --> 00:00:32,184
+of torque A force applied farther from the axis could produce a
+
+8
+00:00:32,197 --> 00:00:37,618
+greater turning effect provided its direction was appropriate We turned a crank
+
+9
+00:00:37,632 --> 00:00:42,039
+slowly and watched the pedal rotate A small model showed how a
+
+10
+00:00:42,053 --> 00:00:47,382
+gear could change the relationship between speed and turning force Another displayed
+
+11
+00:00:47,395 --> 00:00:52,250
+a piston moving inside a cylinder The lesson connected theory with visible
+
+12
+00:00:52,263 --> 00:00:57,579
+motion We learnt to distinguish axial movement from sideways displacement and to
+
+13
+00:00:57,592 --> 00:01:02,079
+notice a loose hinge before it caused damage No one was permitted
+
+14
+00:01:02,092 --> 00:01:08,553
+to operate unfamiliar equipment without supervision Understanding mechanics meant more than memorizing
+
+15
+00:01:08,566 --> 00:01:12,974
+a formula it required noticing how parts interact and recognizing when an
+
+16
+00:01:12,987 --> 00:01:16,171
+apparently minor defect could endanger the whole operation

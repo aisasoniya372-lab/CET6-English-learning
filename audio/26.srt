@@ -1,0 +1,59 @@
+1
+00:00:00,103 --> 00:00:05,210
+Inside a Materials Laboratory The laboratory compared a metal strip with a
+
+2
+00:00:05,224 --> 00:00:11,026
+sample of polymer Students measured tensile strength watched a specimen bend and
+
+3
+00:00:11,039 --> 00:00:15,276
+recorded the point at which a fracture appeared A wedge helped hold
+
+4
+00:00:15,289 --> 00:00:19,460
+one sample in place while a protective screen separated the observers from
+
+5
+00:00:19,474 --> 00:00:26,684
+the apparatus Safety took precedence over speed A second experiment examined deformation
+
+6
+00:00:26,697 --> 00:00:31,816
+under pressure A soft material could flatten or stretch whereas a brittle
+
+7
+00:00:31,829 --> 00:00:36,790
+one might crack The instructor warned that surface appearance alone could not
+
+8
+00:00:36,803 --> 00:00:41,987
+predict capability A shiny coating might hide an internal flaw and a
+
+9
+00:00:42,000 --> 00:00:47,974
+thick workpiece was not necessarily stronger in every direction The sample's composition
+
+10
+00:00:47,987 --> 00:00:53,539
+and manufacturing process also mattered The team used calibration records to check
+
+11
+00:00:53,553 --> 00:00:59,053
+its instruments A small deviation in measurement could become significant when results
+
+12
+00:00:59,066 --> 00:01:04,816
+were compared Rather than discard an unexpected reading students repeated the procedure
+
+13
+00:01:04,829 --> 00:01:11,776
+and described the discrepancy Experimentation requires an honest account of uncertainty The
+
+14
+00:01:11,789 --> 00:01:16,658
+purpose was to assess a material's behaviour under specified conditions not to
+
+15
+00:01:16,671 --> 00:01:20,592
+declare one substance universally superior to every alternative

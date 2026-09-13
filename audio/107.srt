@@ -1,0 +1,51 @@
+1
+00:00:00,103 --> 00:00:04,882
+Keeping a Useful Project Log Our project log stated that work was
+
+2
+00:00:04,895 --> 00:00:12,066
+currently behind schedule Hitherto the team had relied on informal updates Henceforth
+
+3
+00:00:12,237 --> 00:00:17,408
+each member would record progress weekly The first review identified a delay
+
+4
+00:00:17,605 --> 00:00:25,118
+subsequently we revised the timetable Thereafter reports became more consistent The log
+
+5
+00:00:25,132 --> 00:00:30,158
+was useful because it explained decisions not just dates A note might
+
+6
+00:00:30,171 --> 00:00:32,960
+say that a change could pose a risk or that a resource
+
+7
+00:00:32,974 --> 00:00:36,829
+was on the verge of running out Another would explain why an
+
+8
+00:00:36,842 --> 00:00:41,539
+apparently easy solution had proved of no avail A summary referred to
+
+9
+00:00:41,553 --> 00:00:47,421
+a problem and the lessons contained therein Formal connectors should clarify relationships
+
+10
+00:00:47,526 --> 00:00:53,039
+not decorate a paragraph Incidentally an extra fact belongs only where it
+
+11
+00:00:53,053 --> 00:00:58,224
+helps the reader A record becomes confusing when every sentence sounds official
+
+12
+00:00:58,237 --> 00:01:02,487
+but no one can tell what happened The best account lets readers
+
+13
+00:01:02,500 --> 00:01:06,237
+trace a decision understand its reason and see what followed

@@ -1,0 +1,39 @@
+1
+00:00:00,103 --> 00:00:04,776
+Motion on Display A model arm could deflect an object and a
+
+2
+00:00:04,789 --> 00:00:09,461
+scale measured the deflection Another display asked us to turn a handle
+
+3
+00:00:09,474 --> 00:00:14,829
+clockwise and watch a wheel reverse direction We compared velocity with speed
+
+4
+00:00:15,737 --> 00:00:20,855
+Nearby a channel made two streams converge or diverge A metal mesh
+
+5
+00:00:20,868 --> 00:00:26,053
+caught particles while a cubic container collected liquid The guide asked us
+
+6
+00:00:26,066 --> 00:00:30,921
+to observe rather than assume equilibrium A machine might appear stable while
+
+7
+00:00:30,934 --> 00:00:35,947
+material remained in constant flux The guide described this as a dynamical
+
+8
+00:00:35,961 --> 00:00:41,513
+system One apparatus could eject a token after each cycle another showed
+
+9
+00:00:41,526 --> 00:00:46,895
+how friction might retard motion A useful explanation connects what learners see
+
+10
+00:00:46,908 --> 00:00:48,684
+with the conditions that produce it

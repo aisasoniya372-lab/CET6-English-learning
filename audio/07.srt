@@ -1,0 +1,59 @@
+1
+00:00:00,103 --> 00:00:05,605
+Technology That Saves Time A software developer offered to automate our volunteer
+
+2
+00:00:05,618 --> 00:00:11,803
+registration system Previously an attendant had to copy each paper form insert
+
+3
+00:00:11,816 --> 00:00:16,750
+the information into a directory and check for a duplicate The process
+
+4
+00:00:16,763 --> 00:00:20,210
+was tiresome and a simple mistake could leave a name absent from
+
+5
+00:00:20,224 --> 00:00:24,868
+the final list The new interface allowed users to edit an entry
+
+6
+00:00:24,882 --> 00:00:31,184
+and receive instantaneous confirmation A compact program would standardize the format flag
+
+7
+00:00:31,197 --> 00:00:37,079
+incomplete fields and interconnect the membership records with the timetable Its designer
+
+8
+00:00:37,092 --> 00:00:41,868
+was careful not to overload the screen with every conceivable option A
+
+9
+00:00:41,882 --> 00:00:45,671
+clear heading a visible help button and a plain explanation of each
+
+10
+00:00:45,684 --> 00:00:50,408
+step made the system easier to comprehend Yet efficiency was not the
+
+11
+00:00:50,421 --> 00:00:56,539
+only consideration A technical breakdown could paralyse registration so the team kept
+
+12
+00:00:56,553 --> 00:01:02,461
+a backup procedure They also restricted access to confidential information and tested
+
+13
+00:01:02,474 --> 00:01:07,934
+whether the system was compatible with older devices Useful innovation begins with
+
+14
+00:01:07,947 --> 00:01:13,474
+a genuine need Unless a digital service is reliable and understandable its
+
+15
+00:01:13,487 --> 00:01:16,684
+sophistication may become a burden rather than an advantage

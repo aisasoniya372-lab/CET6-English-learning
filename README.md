@@ -1,11 +1,16 @@
-# CET-6 Vocabulary Learning
+# CET-6 English Learning
 
-A static, browser-based CET-6 vocabulary learning reader with 111 practical passages, word lookup cards, pronunciation, exercises, and a neural-voice trial for Article 01.
+[Open the learning website](https://aisasoniya372-lab.github.io/CET6-English-learning/)
 
-Open `index.html` to start. The Article 01 audio folder must remain beside `index.html`.
+111 practical English passages with Chinese translations, writing and translation exercises, word cards, and continuous neural-voice audio for every article.
 
-## Privacy
+## Listening
+Each article has an MP3 player with playback speed, seeking, looping, and audio/subtitle downloads. All 111 recordings use Jenny (en-US-JennyNeural) at a synthesis rate of -5%, including the English title and complete body. Total duration is about 122 minutes. The same recordings play on phones and computers. Individual word pronunciation and the optional system reader still use device speech voices.
 
-This public site contains learning content only. It does not contain account credentials, API keys, local filesystem paths, email addresses, the source vocabulary PDF, production scripts, audit data, or private project files. Learning progress is stored only in the visitor's own browser local storage. The optional Cambridge link opens an external dictionary when selected by the visitor.
+## Files
+Keep index.html, the referenced JavaScript data files, and audio/ together. This is a static site; no server or API key is required. Audio files and corresponding SRT subtitles use article IDs, for example audio/01.mp3 and audio/01.srt.
 
-The bundled dictionary data is based on ECDICT and includes its license notice in the local project materials.
+## Privacy and sources
+The site has no application analytics or account login. Learning progress and voice preferences are stored in the visitor's browser. Optional external dictionary links and device speech services are subject to their providers' behavior; GitHub hosts the site. Public updates contain only site code, learning content, generated audio, subtitles, and file checksums. Local filesystem paths, credentials, and source-production scripts are excluded.
+
+Dictionary data is based on ECDICT; its MIT notice is included in index.html. Exercises are original learning material and are not official CET exam questions. Coverage refers to the supplied vocabulary list, not every sense or the entire official syllabus.
