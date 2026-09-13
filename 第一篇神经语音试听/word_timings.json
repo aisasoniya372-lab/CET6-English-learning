@@ -1,0 +1,1016 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 1026250,
+    "duration": 3815830,
+    "text": "Learning"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4973750,
+    "duration": 1315830,
+    "text": "with"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 6421250,
+    "duration": 657910,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 7210410,
+    "duration": 6973750,
+    "text": "Purpose"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 23289580,
+    "duration": 6973750,
+    "text": "Initially"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 31447500,
+    "duration": 2763330,
+    "text": "many"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34342080,
+    "duration": 4605410,
+    "text": "students"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 39078750,
+    "duration": 3421250,
+    "text": "regard"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 42631660,
+    "duration": 526250,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 43289580,
+    "duration": 6842080,
+    "text": "diploma"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 50263330,
+    "duration": 1184160,
+    "text": "as"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 51578750,
+    "duration": 2105410,
+    "text": "their"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 53815830,
+    "duration": 3815830,
+    "text": "ultimate"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 57763330,
+    "duration": 7368330,
+    "text": "objective"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 74210410,
+    "duration": 2236660,
+    "text": "Yet"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 76578750,
+    "duration": 526250,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 77236660,
+    "duration": 9078750,
+    "text": "qualification"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 86447500,
+    "duration": 1842080,
+    "text": "is"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 88421250,
+    "duration": 2500000,
+    "text": "only"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 91052500,
+    "duration": 2763330,
+    "text": "one"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 93947500,
+    "duration": 5789580,
+    "text": "component"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 99868330,
+    "duration": 789580,
+    "text": "of"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 100789580,
+    "duration": 921250,
+    "text": "an"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 101842080,
+    "duration": 8421250,
+    "text": "education"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 119342080,
+    "duration": 1973750,
+    "text": "What"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 121447500,
+    "duration": 4210410,
+    "text": "matters"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 125789580,
+    "duration": 2500000,
+    "text": "more"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 128421250,
+    "duration": 1447500,
+    "text": "is"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 130000000,
+    "duration": 3026250,
+    "text": "whether"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 133157910,
+    "duration": 4605410,
+    "text": "learners"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 137894580,
+    "duration": 1578750,
+    "text": "can"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 139605410,
+    "duration": 5000000,
+    "text": "interpret"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 144736660,
+    "duration": 657910,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 145526250,
+    "duration": 4736660,
+    "text": "difficult"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 150394580,
+    "duration": 7631660,
+    "text": "paragraph"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 160394580,
+    "duration": 5394580,
+    "text": "formulate"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 165921250,
+    "duration": 526250,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 166578750,
+    "duration": 5263330,
+    "text": "coherent"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 171973750,
+    "duration": 6184160,
+    "text": "argument"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 180657910,
+    "duration": 1052500,
+    "text": "and"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 181842080,
+    "duration": 3157910,
+    "text": "apply"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 185131660,
+    "duration": 1315830,
+    "text": "an"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 186578750,
+    "duration": 5789580,
+    "text": "abstract"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 192500000,
+    "duration": 6052500,
+    "text": "concept"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 198684160,
+    "duration": 1184160,
+    "text": "to"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 200000000,
+    "duration": 657910,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 200789580,
+    "duration": 6184160,
+    "text": "realistic"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 207105410,
+    "duration": 8815830,
+    "text": "situation"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 225000000,
+    "duration": 1315830,
+    "text": "A"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 226447500,
+    "duration": 1710410,
+    "text": "good"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 228289580,
+    "duration": 5657910,
+    "text": "instructor"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 234078750,
+    "duration": 1052500,
+    "text": "will"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 235263330,
+    "duration": 4210410,
+    "text": "therefore"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 239605410,
+    "duration": 4473750,
+    "text": "encourage"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 244210410,
+    "duration": 657910,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 245000000,
+    "duration": 4078750,
+    "text": "student"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 249210410,
+    "duration": 921250,
+    "text": "to"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 250263330,
+    "duration": 4473750,
+    "text": "question"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 254868330,
+    "duration": 921250,
+    "text": "an"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 255921250,
+    "duration": 6973750,
+    "text": "assumption"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 265000000,
+    "duration": 5657910,
+    "text": "clarify"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 270789580,
+    "duration": 526250,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 271447500,
+    "duration": 5921250,
+    "text": "notion"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 280000000,
+    "duration": 921250,
+    "text": "and"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 281052500,
+    "duration": 5789580,
+    "text": "distinguish"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 286973750,
+    "duration": 921250,
+    "text": "an"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 288026250,
+    "duration": 4342080,
+    "text": "apparent"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 292500000,
+    "duration": 3815830,
+    "text": "fact"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 296447500,
+    "duration": 1447500,
+    "text": "from"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 298026250,
+    "duration": 526250,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 298684160,
+    "duration": 5526250,
+    "text": "reasonable"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 304342080,
+    "duration": 6842080,
+    "text": "inference"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 320263330,
+    "duration": 1578750,
+    "text": "At"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 321973750,
+    "duration": 1184160,
+    "text": "our"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 323289580,
+    "duration": 5526250,
+    "text": "college"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 330789580,
+    "duration": 1842080,
+    "text": "each"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 332763330,
+    "duration": 7105410,
+    "text": "participant"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 340000000,
+    "duration": 2631660,
+    "text": "must"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 342763330,
+    "duration": 4473750,
+    "text": "undertake"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 347368330,
+    "duration": 526250,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 348026250,
+    "duration": 3289580,
+    "text": "small"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 351447500,
+    "duration": 4210410,
+    "text": "research"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 355789580,
+    "duration": 6973750,
+    "text": "project"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 371842080,
+    "duration": 5000000,
+    "text": "Students"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 376973750,
+    "duration": 3157910,
+    "text": "first"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 380263330,
+    "duration": 3552500,
+    "text": "prepare"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 383947500,
+    "duration": 921250,
+    "text": "an"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 385000000,
+    "duration": 4868330,
+    "text": "outline"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 392368330,
+    "duration": 1710410,
+    "text": "then"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 394210410,
+    "duration": 3947500,
+    "text": "develop"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 398289580,
+    "duration": 526250,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 398947500,
+    "duration": 8815830,
+    "text": "hypothesis"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 407894580,
+    "duration": 2368330,
+    "text": "and"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 410394580,
+    "duration": 3157910,
+    "text": "gather"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 413684160,
+    "duration": 5921250,
+    "text": "empirical"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 419736660,
+    "duration": 6447500,
+    "text": "evidence"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 435263330,
+    "duration": 1710410,
+    "text": "They"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 437105410,
+    "duration": 3684160,
+    "text": "submit"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 440921250,
+    "duration": 657910,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 441710410,
+    "duration": 3815830,
+    "text": "draft"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 445657910,
+    "duration": 1184160,
+    "text": "to"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 446973750,
+    "duration": 789580,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 447894580,
+    "duration": 4736660,
+    "text": "tutor"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 455000000,
+    "duration": 921250,
+    "text": "who"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 456052500,
+    "duration": 1710410,
+    "text": "may"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 457894580,
+    "duration": 4210410,
+    "text": "reject"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 462236660,
+    "duration": 526250,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 462894580,
+    "duration": 6973750,
+    "text": "superficial"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 470000000,
+    "duration": 8157910,
+    "text": "explanation"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 478289580,
+    "duration": 1710410,
+    "text": "but"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 480131660,
+    "duration": 1447500,
+    "text": "will"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 481710410,
+    "duration": 2763330,
+    "text": "offer"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 484605410,
+    "duration": 6184160,
+    "text": "constructive"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 490921250,
+    "duration": 6710410,
+    "text": "counsel"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 506710410,
+    "duration": 1315830,
+    "text": "A"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 508157910,
+    "duration": 5921250,
+    "text": "scholarship"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 514210410,
+    "duration": 4078750,
+    "text": "rewards"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 518421250,
+    "duration": 6447500,
+    "text": "persistence"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 525000000,
+    "duration": 1447500,
+    "text": "and"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 526578750,
+    "duration": 6842080,
+    "text": "integrity"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 533552500,
+    "duration": 1578750,
+    "text": "as"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 535263330,
+    "duration": 1973750,
+    "text": "well"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 537368330,
+    "duration": 1052500,
+    "text": "as"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 538552500,
+    "duration": 6973750,
+    "text": "achievement"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 554605410,
+    "duration": 1578750,
+    "text": "The"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 556315830,
+    "duration": 2368330,
+    "text": "dean"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 558815830,
+    "duration": 3026250,
+    "text": "hopes"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 561973750,
+    "duration": 1578750,
+    "text": "that"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 563684160,
+    "duration": 1710410,
+    "text": "this"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 565526250,
+    "duration": 6447500,
+    "text": "systematic"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 572105410,
+    "duration": 4736660,
+    "text": "approach"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 576973750,
+    "duration": 1184160,
+    "text": "will"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 578289580,
+    "duration": 3815830,
+    "text": "broaden"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 582236660,
+    "duration": 4210410,
+    "text": "students'"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 586578750,
+    "duration": 7105410,
+    "text": "intellectual"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 593815830,
+    "duration": 7763330,
+    "text": "interests"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 610657910,
+    "duration": 2894580,
+    "text": "Not"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 613684160,
+    "duration": 2368330,
+    "text": "only"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 616184160,
+    "duration": 2368330,
+    "text": "does"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 618684160,
+    "duration": 5394580,
+    "text": "purposeful"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 624210410,
+    "duration": 3289580,
+    "text": "study"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 627631660,
+    "duration": 3552500,
+    "text": "deepen"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 631315830,
+    "duration": 8026250,
+    "text": "understanding"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 641973750,
+    "duration": 1447500,
+    "text": "but"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 643552500,
+    "duration": 789580,
+    "text": "it"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 644473750,
+    "duration": 3026250,
+    "text": "also"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 647631660,
+    "duration": 2631660,
+    "text": "gives"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 650394580,
+    "duration": 3815830,
+    "text": "learners"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 654342080,
+    "duration": 1052500,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 655526250,
+    "duration": 6052500,
+    "text": "confidence"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 661710410,
+    "duration": 1052500,
+    "text": "to"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 662894580,
+    "duration": 4736660,
+    "text": "tackle"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 667763330,
+    "duration": 5789580,
+    "text": "unfamiliar"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 673684160,
+    "duration": 7500000,
+    "text": "problems"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 690263330,
+    "duration": 1052500,
+    "text": "A"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 691447500,
+    "duration": 7105410,
+    "text": "university"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 698684160,
+    "duration": 2105410,
+    "text": "should"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 700921250,
+    "duration": 5263330,
+    "text": "cultivate"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 706315830,
+    "duration": 6447500,
+    "text": "independent"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 712894580,
+    "duration": 5263330,
+    "text": "judgment"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 718289580,
+    "duration": 3157910,
+    "text": "rather"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 721578750,
+    "duration": 1447500,
+    "text": "than"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 723157910,
+    "duration": 1973750,
+    "text": "make"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 725263330,
+    "duration": 6710410,
+    "text": "perfection"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 732105410,
+    "duration": 1578750,
+    "text": "its"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 733815830,
+    "duration": 2631660,
+    "text": "only"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 736578750,
+    "duration": 6578750,
+    "text": "criterion"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 743289580,
+    "duration": 789580,
+    "text": "of"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 744210410,
+    "duration": 8157910,
+    "text": "success"
+  }
+]
